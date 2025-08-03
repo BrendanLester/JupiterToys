@@ -1,6 +1,6 @@
 ##  Jupiter Toys - Playwright Test Suite
 
-## 🚀 Installation
+## Installation
 
 1. **Set up Node.js**
    - Install Node.js
